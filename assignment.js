@@ -1,8 +1,10 @@
-//kilometerToMeter
-//budgetCalculator
-//hotelCost
-//megaFriend
-/*--------------------------- */
+//https://github.com/c-moX/assignment-3/blob/main/assignment.js
+/*---------
+01. kilometerToMeter
+02. budgetCalculator
+03. hotelCost
+04. megaFriend
+--------------------------- */
 
 //kilometerToMeter 01
 //Kilometer to meter converter function.
